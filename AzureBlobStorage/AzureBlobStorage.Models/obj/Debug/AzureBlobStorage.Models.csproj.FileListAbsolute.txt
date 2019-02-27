@@ -1,0 +1,10 @@
+C:\Users\garajpal\source\repos\New folder\AzureBlobStorage.Models\bin\Debug\AzureBlobStorage.Models.dll
+C:\Users\garajpal\source\repos\New folder\AzureBlobStorage.Models\bin\Debug\AzureBlobStorage.Models.pdb
+C:\Users\garajpal\source\repos\New folder\AzureBlobStorage.Models\obj\Debug\AzureBlobStorage.Models.csproj.CoreCompileInputs.cache
+C:\Users\garajpal\source\repos\New folder\AzureBlobStorage.Models\obj\Debug\AzureBlobStorage.Models.dll
+C:\Users\garajpal\source\repos\New folder\AzureBlobStorage.Models\obj\Debug\AzureBlobStorage.Models.pdb
+C:\Users\garajpal\source\repos\AzureBlobStorage\AzureBlobStorage.Models\bin\Debug\AzureBlobStorage.Models.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\AzureBlobStorage.Models\bin\Debug\AzureBlobStorage.Models.pdb
+C:\Users\garajpal\source\repos\AzureBlobStorage\AzureBlobStorage.Models\obj\Debug\AzureBlobStorage.Models.csproj.CoreCompileInputs.cache
+C:\Users\garajpal\source\repos\AzureBlobStorage\AzureBlobStorage.Models\obj\Debug\AzureBlobStorage.Models.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\AzureBlobStorage.Models\obj\Debug\AzureBlobStorage.Models.pdb

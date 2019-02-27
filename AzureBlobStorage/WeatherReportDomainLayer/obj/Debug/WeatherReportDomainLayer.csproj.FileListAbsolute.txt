@@ -1,0 +1,22 @@
+C:\Users\garajpal\source\repos\New folder\WeatherReportDomainLayer\bin\Debug\WeatherReportDomainLayer.dll
+C:\Users\garajpal\source\repos\New folder\WeatherReportDomainLayer\bin\Debug\WeatherReportDomainLayer.pdb
+C:\Users\garajpal\source\repos\New folder\WeatherReportDomainLayer\bin\Debug\AzureBlobStorage.Interface.dll
+C:\Users\garajpal\source\repos\New folder\WeatherReportDomainLayer\bin\Debug\AzureBlobStorage.Models.dll
+C:\Users\garajpal\source\repos\New folder\WeatherReportDomainLayer\bin\Debug\AzureBlobStorage.Interface.pdb
+C:\Users\garajpal\source\repos\New folder\WeatherReportDomainLayer\bin\Debug\AzureBlobStorage.Models.pdb
+C:\Users\garajpal\source\repos\New folder\WeatherReportDomainLayer\obj\Debug\WeatherReportDomainLayer.csprojAssemblyReference.cache
+C:\Users\garajpal\source\repos\New folder\WeatherReportDomainLayer\obj\Debug\WeatherReportDomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\garajpal\source\repos\New folder\WeatherReportDomainLayer\obj\Debug\WeatherReportDomainLayer.csproj.CopyComplete
+C:\Users\garajpal\source\repos\New folder\WeatherReportDomainLayer\obj\Debug\WeatherReportDomainLayer.dll
+C:\Users\garajpal\source\repos\New folder\WeatherReportDomainLayer\obj\Debug\WeatherReportDomainLayer.pdb
+C:\Users\garajpal\source\repos\AzureBlobStorage\WeatherReportDomainLayer\bin\Debug\WeatherReportDomainLayer.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\WeatherReportDomainLayer\bin\Debug\WeatherReportDomainLayer.pdb
+C:\Users\garajpal\source\repos\AzureBlobStorage\WeatherReportDomainLayer\bin\Debug\AzureBlobStorage.Interface.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\WeatherReportDomainLayer\bin\Debug\AzureBlobStorage.Models.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\WeatherReportDomainLayer\bin\Debug\AzureBlobStorage.Interface.pdb
+C:\Users\garajpal\source\repos\AzureBlobStorage\WeatherReportDomainLayer\bin\Debug\AzureBlobStorage.Models.pdb
+C:\Users\garajpal\source\repos\AzureBlobStorage\WeatherReportDomainLayer\obj\Debug\WeatherReportDomainLayer.csprojAssemblyReference.cache
+C:\Users\garajpal\source\repos\AzureBlobStorage\WeatherReportDomainLayer\obj\Debug\WeatherReportDomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\garajpal\source\repos\AzureBlobStorage\WeatherReportDomainLayer\obj\Debug\WeatherReportDomainLayer.csproj.CopyComplete
+C:\Users\garajpal\source\repos\AzureBlobStorage\WeatherReportDomainLayer\obj\Debug\WeatherReportDomainLayer.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\WeatherReportDomainLayer\obj\Debug\WeatherReportDomainLayer.pdb

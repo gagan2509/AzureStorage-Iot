@@ -1,0 +1,29 @@
+C:\Users\garajpal\source\repos\New folder\BlobOperation\bin\Debug\BlobOperation.dll
+C:\Users\garajpal\source\repos\New folder\BlobOperation\bin\Debug\BlobOperation.pdb
+C:\Users\garajpal\source\repos\New folder\BlobOperation\bin\Debug\AzureBlobStorage.Interface.dll
+C:\Users\garajpal\source\repos\New folder\BlobOperation\bin\Debug\AzureBlobStorage.Models.dll
+C:\Users\garajpal\source\repos\New folder\BlobOperation\bin\Debug\AzureBlobStorage.Interface.pdb
+C:\Users\garajpal\source\repos\New folder\BlobOperation\bin\Debug\AzureBlobStorage.Models.pdb
+C:\Users\garajpal\source\repos\New folder\BlobOperation\obj\Debug\BlobOperation.csprojAssemblyReference.cache
+C:\Users\garajpal\source\repos\New folder\BlobOperation\obj\Debug\BlobOperation.csproj.CoreCompileInputs.cache
+C:\Users\garajpal\source\repos\New folder\BlobOperation\obj\Debug\BlobOperation.csproj.CopyComplete
+C:\Users\garajpal\source\repos\New folder\BlobOperation\obj\Debug\BlobOperation.dll
+C:\Users\garajpal\source\repos\New folder\BlobOperation\obj\Debug\BlobOperation.pdb
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\bin\Debug\BlobOperation.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\bin\Debug\BlobOperation.pdb
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\bin\Debug\AzureBlobStorage.Interface.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\bin\Debug\AzureBlobStorage.Models.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\bin\Debug\AzureBlobStorage.Interface.pdb
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\bin\Debug\AzureBlobStorage.Models.pdb
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\obj\Debug\BlobOperation.csprojAssemblyReference.cache
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\obj\Debug\BlobOperation.csproj.CoreCompileInputs.cache
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\obj\Debug\BlobOperation.csproj.CopyComplete
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\obj\Debug\BlobOperation.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\BlobOperation\obj\Debug\BlobOperation.pdb

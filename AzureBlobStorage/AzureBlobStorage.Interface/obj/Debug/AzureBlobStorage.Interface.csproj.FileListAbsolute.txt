@@ -1,0 +1,18 @@
+C:\Users\garajpal\source\repos\New folder\AzureBlobStorage.Interface\bin\Debug\AzureBlobStorage.Interface.dll
+C:\Users\garajpal\source\repos\New folder\AzureBlobStorage.Interface\bin\Debug\AzureBlobStorage.Interface.pdb
+C:\Users\garajpal\source\repos\New folder\AzureBlobStorage.Interface\bin\Debug\AzureBlobStorage.Models.dll
+C:\Users\garajpal\source\repos\New folder\AzureBlobStorage.Interface\bin\Debug\AzureBlobStorage.Models.pdb
+C:\Users\garajpal\source\repos\New folder\AzureBlobStorage.Interface\obj\Debug\AzureBlobStorage.Interface.csproj.CoreCompileInputs.cache
+C:\Users\garajpal\source\repos\New folder\AzureBlobStorage.Interface\obj\Debug\AzureBlobStorage.Interface.csproj.CopyComplete
+C:\Users\garajpal\source\repos\New folder\AzureBlobStorage.Interface\obj\Debug\AzureBlobStorage.Interface.dll
+C:\Users\garajpal\source\repos\New folder\AzureBlobStorage.Interface\obj\Debug\AzureBlobStorage.Interface.pdb
+C:\Users\garajpal\source\repos\New folder\AzureBlobStorage.Interface\obj\Debug\AzureBlobStorage.Interface.csprojAssemblyReference.cache
+C:\Users\garajpal\source\repos\AzureBlobStorage\AzureBlobStorage.Interface\bin\Debug\AzureBlobStorage.Interface.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\AzureBlobStorage.Interface\bin\Debug\AzureBlobStorage.Interface.pdb
+C:\Users\garajpal\source\repos\AzureBlobStorage\AzureBlobStorage.Interface\bin\Debug\AzureBlobStorage.Models.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\AzureBlobStorage.Interface\bin\Debug\AzureBlobStorage.Models.pdb
+C:\Users\garajpal\source\repos\AzureBlobStorage\AzureBlobStorage.Interface\obj\Debug\AzureBlobStorage.Interface.csprojAssemblyReference.cache
+C:\Users\garajpal\source\repos\AzureBlobStorage\AzureBlobStorage.Interface\obj\Debug\AzureBlobStorage.Interface.csproj.CoreCompileInputs.cache
+C:\Users\garajpal\source\repos\AzureBlobStorage\AzureBlobStorage.Interface\obj\Debug\AzureBlobStorage.Interface.csproj.CopyComplete
+C:\Users\garajpal\source\repos\AzureBlobStorage\AzureBlobStorage.Interface\obj\Debug\AzureBlobStorage.Interface.dll
+C:\Users\garajpal\source\repos\AzureBlobStorage\AzureBlobStorage.Interface\obj\Debug\AzureBlobStorage.Interface.pdb
